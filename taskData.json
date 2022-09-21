@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pizza",
+    "desc": "Masa Tomate Queso Aceitunas"
+  },
+  {
+    "title": "Milanesas",
+    "desc": "Berenjena Pan rallado"
+  },
+  {
+    "title": "Pure",
+    "desc": "Papa"
+  },
+  {
+    "title": "Tarta",
+    "desc": "Masa Relleno random"
+  },
+  {
+    "title": "Fideos",
+    "desc": "Masa Salsa Crema"
+  },
+  {
+    "title": "Lomito",
+    "desc": "De lo mejor"
+  },
+  {
+    "title": "Panchos",
+    "desc": "Pan salchicha adereso"
+  },
+  {
+    "title": "Papas Fritas",
+    "desc": "Papas Aceite"
+  },
+  {
+    "title": "Fajitas",
+    "desc": "Soja texturizada Masa Verduras"
+  },
+  {
+    "title": "Papa al horno",
+    "desc": "Papa Condimentos"
+  }
+]
